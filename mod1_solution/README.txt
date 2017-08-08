@@ -1,1 +1,1 @@
-Solución del módulo 1.
+SoluciÃ³n del mÃ³dulo 1.
